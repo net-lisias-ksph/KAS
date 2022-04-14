@@ -1,5 +1,9 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2018-0309: 0.6.4 (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0']
+	+ Do _not_ use this release to install the mod! It's only a sources snapshot. Go to the forum thread for the complete installation instructions.
+	+ 0.6.4 (March 8h, 2018)
+			- KSP 1.4 support.
 * 2017-0527: 0.6.3 (IgorZ) for KSP 1.3
 	+ Do _not_ use this release to install the mod! It's only a sources snapshot. Go to the forum thread for the complete installation instructions.
 	+ 0.6.3 (May 26th, 2017)
