@@ -1,5 +1,12 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-1023: 0.7.1-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
+	+ Fixed:
+		- 184: Free joint limit angles are checked incorrectly
+		- 183: TJ-2 context menu doesn't update correctly
+		- 182: TJ-2 incorrectly restores state on load
+		- 181: ESC opens pause menu when in interactive mode
+		- 177: Free joint stops working as free
 * 2016-1017: 0.7.0-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
 	+ No changelog provided
 * 2018-0309: 0.6.4 (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0']
