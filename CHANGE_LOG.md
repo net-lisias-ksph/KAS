@@ -1,5 +1,8 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-0627: 0.5.9 (IgorZ) for KSP 1.1
+	+ 0.5.9 (June 27th, 2016)
+		- [Fix] #171: KSP 1.1.3 compatibility.
 * 2016-0613: 0.5.8 (IgorZ) for KSP 1.1
 	+ 0.5.8 (June 12th, 2016)
 		- [Fix] #167: Loading winch connected same vessel.
