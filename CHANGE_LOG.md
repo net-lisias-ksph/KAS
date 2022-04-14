@@ -1,5 +1,9 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2015-0711: 0.5.3 (KospY) for KSP 1.0.4
+	+ [Fix] Compatibility update for KSP 1.0.4
+	+ [Fix] Updated KAS to use the latest version of KIS (v1.2)
+	+ [Fix] Updated pylon to use the new KIS module for ground attachement
 * 2015-0531: 0.5.2 (KospY) for KSP 1.0.2
 	+ [Enhancement] Converted parts textures to DDS
 	+ [Enhancement] AVC is now used for version check
@@ -11,4 +15,3 @@
 	+ Added a warning if KIS is not detected
 	+ Fixed radial winch not allowing stack attach
 * 2015-05??: 0.4.7 (KospY) for KSP 0.23.5 PRE-RELEASE
-	+ No changelog provided
