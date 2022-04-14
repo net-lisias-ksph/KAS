@@ -1,5 +1,7 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-1012: 0.6.0 (IgorZ) for KSP 1.2
+	+ KSP 1.2 support
 * 2016-0627: 0.5.9 (IgorZ) for KSP 1.1
 	+ 0.5.9 (June 27th, 2016)
 		- [Fix] #171: KSP 1.1.3 compatibility.
