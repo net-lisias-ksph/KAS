@@ -1,5 +1,8 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-1227: 0.6.2 (IgorZ) for KSP ['1.2.2', '1.2.1', '1.2']
+	+ 0.6.2 (December 26th, 2016)
+		- [Fix #191] Unable to use winch with attached in VAB parts with wheels.
 * 2016-1206: 0.6.1 (IgorZ) for KSP 1.2
 	+ 0.6.1 (December 5th, 2016)
 		- [Fix #194] Ground pylon part is not visible in editor.
