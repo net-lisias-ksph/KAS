@@ -1,5 +1,10 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2019-1028: 1.5 (IgorZ) for KSP 1.8
+	+ 1.5 (pre-release):
+		- [Change] `KSP 1.8` compatibility. __WARNING__: the mod won't work with version lower than `KSP 1.8`!
+		- [Enhancement] Add Chinese localization.
+		- [Fix #279] Can't surface attach the hw-80 winch.
 * 2019-0608: 1.4 (IgorZ) for KSP ['1.7.3', '1.7.2', '1.7.1']
 	+ 1.4 (June 7th, 2019):
 		- [Change] Update ES-ES localization.
