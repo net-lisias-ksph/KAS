@@ -1,5 +1,12 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-0422: 0.5.6 (IgorZ) for KSP 1.1
+	+ 0.5.6 (21 April 2016)
+		- [Change] KSP 1.1 supported!
+		- [Change] Increase hooks break strength with respect to Unity 5 physics change.
+		- [Change] Increase static attach strength on pylon to prevent joint breakage.
+		- [Enhancement] Improved search tags and descriptions in parts.
+		- [Fix] Fix bottom & srf attach nodes on pylon to make it more stable and prevent explosions on physics start.
 * 2016-0421: 0.5.6-alpha.6 (IgorZ) for KSP 1.1 PRE-RELEASE
 	+ This is a testing version only. Do not install it unless you're participating in alpha testing.
 * 2016-0417: 0.5.6-alpha.5 (IgorZ) for KSP 1.1 PRE-RELEASE
