@@ -1,5 +1,8 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2021-0702: 1.9 (IgorZ) for KSP 1.12.0
+	+ 1.9 (July 1st, 2021):
+		- [Fix #324] Resources intermittently disappear from RTS transfer dialog.
 * 2021-0628: 1.8 (IgorZ) for KSP 1.12.0
 	+ 1.8 (June 27th, 2021):
 		- [NOTICE] If a connected KAS part gets involved in a stock EVA construction operation, it will get immediately detached from the peer. To avoid unpexected behvior, it's recommended to manually break the link before using EVA construction mode.
