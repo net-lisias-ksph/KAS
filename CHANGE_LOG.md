@@ -1,5 +1,10 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2019-0421: 1.3 (IgorZ) for KSP 1.7
+	+ 1.3 (April 21st, 2019):
+		- [Change] KSP 1.7 compatibility.
+		- [Fix #263] Missing files trying to compile locally.
+		- [Fix #264] It's seems that KAS v1.2 do not support KSP v1.7.
 * 2019-0408: 1.2 (IgorZ) for KSP ['1.6.1', '1.6.0']
 	+ 1.2 (Apr 8th, 2019):
 		- [Change] ATTENTION! The lagacy parts are _not_ provided in this verison!!! Read [Wiki](https://github.com/ihsoft/KAS/wiki/Legacy-parts-destiny) for more details.
