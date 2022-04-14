@@ -1,5 +1,11 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2017-0527: 0.6.3 (IgorZ) for KSP 1.3
+	+ Do _not_ use this release to install the mod! It's only a sources snapshot. Go to the forum thread for the complete installation instructions.
+	+ 0.6.3 (May 26th, 2017)
+			- [Fix] Show detach button when harpooned to a part (asmigala).
+			- [Change] Support a new format of the `OnKISAction` parameter.
+			- KSP 1.3 support.
 * 2016-1227: 0.6.2 (IgorZ) for KSP ['1.2.2', '1.2.1', '1.2']
 	+ 0.6.2 (December 26th, 2016)
 		- [Fix #191] Unable to use winch with attached in VAB parts with wheels.
