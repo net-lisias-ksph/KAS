@@ -1,5 +1,8 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2021-1021: 1.10 (IgorZ) for KSP ['1.12.2', '1.12.1', '1.12.0']
+	+ 1.10 (October 20th, 2021):
+		- [Fix #326] Error in the logs when an inactive vessel gets in range.
 * 2021-0702: 1.9 (IgorZ) for KSP 1.12.0
 	+ 1.9 (July 1st, 2021):
 		- [Fix #324] Resources intermittently disappear from RTS transfer dialog.
