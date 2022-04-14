@@ -1,5 +1,7 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2017-0816: 1.0.6436.42780 (IgorZ) for KSP ['1.9.1', '1.9'] PRE-RELEASE
+	+ Added initial version of the winch
 * 2017-0623: 1.0.6383.1326 (IgorZ) for KSP ['1.9.1', '1.9'] PRE-RELEASE
 	+ 1.0 (June 23rd, 2017):
 		- [Fix #204] Link status is not restored on load.
