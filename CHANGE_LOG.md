@@ -1,5 +1,10 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2017-0527: 0.7.4-beta (IgorZ) for KSP 1.3 PRE-RELEASE
+	+ 0.7.4 (May 26th, 2017):
+		- [Enhancement] A brand new model for CH-1.
+		- [Enhancement] PCB-1 cable now has a head that plugs into CH-1 model.
+		- KSP 1.3 support.
 * 2017-0204: 0.7.3-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
 	+ 0.7.3 (pre-release):
 		- [Enhancement] Add cable joint parts PCB-1 and CH-1.
