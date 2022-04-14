@@ -1,5 +1,11 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-1119: 0.7.2-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
+	+ Changes:
+		- [Fix] #186: Loaded position of TJ-2 & T-60 is incorrect.
+		- [Fix] #187: Vessel can auto save during interactive mode.
+		- [Fix] #188: Incorrect unlinking when vessel root changes.
+		- [Enhancement] TB-60 supports locking and active steering to increase stability.
 * 2016-1023: 0.7.1-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
 	+ Fixed:
 		- 184: Free joint limit angles are checked incorrectly
