@@ -1,5 +1,10 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2019-0608: 1.4 (IgorZ) for KSP ['1.7.3', '1.7.2', '1.7.1']
+	+ 1.4 (June 7th, 2019):
+		- [Change] Update ES-ES localization.
+		- [Enhancement] Use icon of better resolution in the editor to avoid bluring.
+		- [Fix #271] KSP 1.7.1 breaks grabbing connectors from winch type parts.
 * 2019-0421: 1.3 (IgorZ) for KSP 1.7
 	+ 1.3 (April 21st, 2019):
 		- [Change] KSP 1.7 compatibility.
