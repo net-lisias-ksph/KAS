@@ -1,5 +1,13 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2020-0731: 1.7 (IgorZ) for KSP 1.10
+	+ 1.7 (July 30th, 2020):
+		- [Change] Better react on the attached part(s) destruction to properly reset the link state.
+		- [Change] Some performance improvement for the winch connector handling.
+		- [Change] Update EN/RU localizations to version `6`.
+		- [Change] Update Chinese localization.
+		- [Fix #295] Stop using `MiniAVC.dll` in favor of `MiniAVC-V2.dll`.
+		- [Fix #297] Decoupling near winch connected in editor causes the winch to break in to two separate vessels.
 * 2017-0816: 1.0.6436.42780 (IgorZ) for KSP ['1.9.1', '1.9'] PRE-RELEASE
 	+ Added initial version of the winch
 * 2017-0623: 1.0.6383.1326 (IgorZ) for KSP ['1.9.1', '1.9'] PRE-RELEASE
