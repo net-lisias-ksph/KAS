@@ -1,5 +1,10 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2015-0729: 0.5.4 (KospY) for KSP 1.0.4
+	+ [Enhancement] Allow KAS to work without KIS (removed KIS dependancy)
+	+ [Enhancement] Moving harpoons with KIS will not attach them on the ground anymore (attach key must now be used)
+	+ [Change] Removed old container module (used to move old KAS v0.4 items to KIS items)
+	+ [Fix] Fixed KIS dependancy checker not working as expected
 * 2015-0711: 0.5.3 (KospY) for KSP 1.0.4
 	+ [Fix] Compatibility update for KSP 1.0.4
 	+ [Fix] Updated KAS to use the latest version of KIS (v1.2)
