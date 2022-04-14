@@ -1,5 +1,7 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2016-0416: 0.5.6-alpha.4 (IgorZ) for KSP 1.1 PRE-RELEASE
+	+ This is a testing version only. Do not install it unless you're participating in alpha testing.
 * 2016-0414: 0.5.6-alpha.3 (IgorZ) for KSP 1.1 PRE-RELEASE
 	+ This is a testing version only. Do not install it unless you're participating in alpha testing.
 * 2016-0411: 0.5.6-alpha.2 (IgorZ) for KSP 1.1 PRE-RELEASE
