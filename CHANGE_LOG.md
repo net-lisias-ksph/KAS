@@ -1,5 +1,10 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2017-0623: 1.0.6383.1326 (IgorZ) for KSP ['1.9.1', '1.9'] PRE-RELEASE
+	+ 1.0 (June 23rd, 2017):
+		- [Fix #204] Link status is not restored on load.
+		- [Fix #205] Bad link state doesn't restore on load.
+		- [Fix #206] TJ-2 applies momentum on the vessel when linked.
 * 2020-0427: 1.6 (IgorZ) for KSP ['1.9.1', '1.9']
 	+ 1.6 (April 26th, 2020):
 		- [Fix #289] RTS-1 docking mode is not reset on decoupling.
