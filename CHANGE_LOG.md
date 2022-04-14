@@ -1,5 +1,11 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2017-0204: 0.7.3-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
+	+ 0.7.3 (pre-release):
+		- [Enhancement] Add cable joint parts PCB-1 and CH-1.
+		- [Change] Rename module: `KASModuleInteractiveJointSource` to `KASModuleInteractiveLinkSource`.
+		- [Change] Rename module: `KASModuleTelescopicPipeStrut` to `KASModuleTelescopicPipeModel`.
+		- [Fix #190] KAS 1.0: Bring back collider for the clutches.
 * 2016-1119: 0.7.2-beta (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0'] PRE-RELEASE
 	+ Changes:
 		- [Fix] #186: Loaded position of TJ-2 & T-60 is incorrect.
