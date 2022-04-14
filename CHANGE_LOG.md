@@ -1,5 +1,15 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2018-1023: 1.0 (IgorZ) for KSP ['1.5.1', '1.5']
+	+ 1.0 (October 21st, 2018):
+		- [Change] KSP 1.5 compatibility.
+		- [Fix #238] Multiple RTS dialogs conflict with each other.
+		- [Fix #239] RTS dialog cannot be moved.
+		- [Fix #240] RTS-1 doesn't see all the resources on the vessel.
+		- [Fix #241] RTS-1 doesn't allow passing fuel in the docked mode.
+		- [Fix #242] Use resource definition to check if it can be transferred in RTS.
+		- [Fix #244] GP-20 & BGP-400 are not in the KAS tab in VAB.
+		- [Fix #246] Timewarp doesn't affect the RTS-1 transfer speed.
 * 2017-0527: 0.7.4-beta (IgorZ) for KSP 1.3 PRE-RELEASE
 	+ 0.7.4 (May 26th, 2017):
 		- [Enhancement] A brand new model for CH-1.
