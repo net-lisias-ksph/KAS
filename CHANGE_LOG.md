@@ -1,5 +1,8 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2022-0908: 1.12 (IgorZ) for KSP ['1.12.3', '1.12.2', '1.12.1', '1.12.0']
+	+ 1.12 (September 7th, 2022):
+		- [Fix] Set a proper normal texture to the RTS hose.
 * 2022-0604: 1.11 (IgorZ) for KSP ['1.12.3', '1.12.2', '1.12.1', '1.12.0']
 	+ 1.11 (June 3rd, 2022):
 		- [Enhancement #329] Bring back haroon and grapling hook.
