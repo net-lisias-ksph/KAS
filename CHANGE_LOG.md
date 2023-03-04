@@ -1,5 +1,8 @@
 # Kerbal Attachment System (KAS) :: Change Log
 
+* 2022-0604: 1.11 (IgorZ) for KSP ['1.12.3', '1.12.2', '1.12.1', '1.12.0']
+	+ 1.11 (June 3rd, 2022):
+		- [Enhancement #329] Bring back haroon and grapling hook.
 * 2021-1021: 1.10 (IgorZ) for KSP ['1.12.2', '1.12.1', '1.12.0']
 	+ 1.10 (October 20th, 2021):
 		- [Fix #326] Error in the logs when an inactive vessel gets in range.
